@@ -8,3 +8,10 @@
         *   [Encoding in style: a stylegan encoder for image-to-image translation.](https://openaccess.thecvf.com/content/CVPR2021/papers/Richardson_Encoding_in_Style_A_StyleGAN_Encoder_for_Image-to-Image_Translation_CVPR_2021_paper.pdf)
         *   [TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting:](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_TransMoMo_Invariance-Driven_Unsupervised_Video_Motion_Retargeting_CVPR_2020_paper.html)
 
+*  Aug.25	Yunhe Gao **Semi-supervised Medical Image Classification**  
+    *  PPT: 
+    *  Related Papers: 
+        *   [Semi-Supervised_Medical_Image_Classification_With_Relation-Driven_Self-Ensembling_Model.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/7051107/Semi-Supervised_Medical_Image_Classification_With_Relation-Driven_Self-Ensembling_Model.pdf)
+        *   [CoMatch: Semi-supervised Learning with Contrastive Graph Regularization](https://arxiv.org/pdf/2011.11183.pdf)
+
+
