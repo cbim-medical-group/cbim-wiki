@@ -22,7 +22,7 @@
 *  Sep.22  Xiaoxiao He **Understanding self-supervised learning dynamics without contrastive pairs**
    *  PPT: 
    *  Related Papers:
-      *[Understanding self-supervised learning dynamics without contrastive pairs](https://arxiv.org/pdf/2102.06810)
+      *  [Understanding self-supervised learning dynamics without contrastive pairs](https://arxiv.org/pdf/2102.06810)
       
 
 
