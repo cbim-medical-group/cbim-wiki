@@ -19,7 +19,7 @@
     *  PPT: [HyperMorph.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7132088/HyperMorph.pptx)
     *  Related Papers: 
         *   
-*  Sep.8	 Liu Di **Transformers for Medical Image Segmentation **  
+*  Sep.8	 Liu Di **Transformers for Medical Image Segmentation**  
     *  PPT: 
     *  Related Papers: 
         *   [An image is worth 16x16 words: Transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929.pdf)
