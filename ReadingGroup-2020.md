@@ -16,9 +16,14 @@
         *   [A Survey on Deep Semi-supervised Learning](https://arxiv.org/pdf/2103.00550.pdf)
 
 *  Sep.1	 Meng Ye **HyperMorph: Amortized Hyperparameter Learning for Image Registration**  
+    *  PPT: [HyperMorph.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7132088/HyperMorph.pptx)
+    *  Related Papers: 
+        *   
+*  Sep.8	 Liu Di ** **  
     *  PPT: 
     *  Related Papers: 
-        *   [Link](www.google.com)
+        *   
+
 
 *  Sep.22  Xiaoxiao He **Understanding self-supervised learning dynamics without contrastive pairs**
    *  PPT: 
