@@ -18,7 +18,7 @@
 *  Sep.1	 Meng Ye **HyperMorph: Amortized Hyperparameter Learning for Image Registration**  
     *  PPT: [HyperMorph.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7132088/HyperMorph.pptx)
     *  Related Papers: 
-        *   
+        *   [HyperMorph: Amortized Hyperparameter Learning for Image Registration](https://arxiv.org/pdf/2101.01035.pdf)
 *  Sep.8	 Liu Di **Transformers for Medical Image Segmentation**  
     *  PPT: 
     *  Related Papers: 
