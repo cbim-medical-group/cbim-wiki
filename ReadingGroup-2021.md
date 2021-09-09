@@ -21,7 +21,7 @@
         *   [HyperMorph: Amortized Hyperparameter Learning for Image Registration](https://arxiv.org/pdf/2101.01035.pdf)
         *   [Conditional Deformable Image Registration with Convolutional Neural Network](https://arxiv.org/pdf/2106.12673.pdf)
 *  Sep.8	 Liu Di **Transformers for Medical Image Segmentation**  
-    *  PPT: 
+    *  PPT: [Transformers_for_Medical_Imageg_Segmentation .pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7133233/Transformers_for_Medical_Imageg_Segmentation.pptx)
     *  Related Papers: 
         *   [An image is worth 16x16 words: Transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929.pdf)
         *   [Cvt: Introducing convolutions to vision transformers](https://arxiv.org/pdf/2103.15808.pdf)
