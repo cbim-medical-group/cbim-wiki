@@ -19,6 +19,7 @@
     *  PPT: [HyperMorph.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7132088/HyperMorph.pptx)
     *  Related Papers: 
         *   [HyperMorph: Amortized Hyperparameter Learning for Image Registration](https://arxiv.org/pdf/2101.01035.pdf)
+        *   [Conditional Deformable Image Registration with Convolutional Neural Network](https://arxiv.org/pdf/2106.12673.pdf)
 *  Sep.8	 Liu Di **Transformers for Medical Image Segmentation**  
     *  PPT: 
     *  Related Papers: 
