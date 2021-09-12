@@ -27,6 +27,12 @@
         *   [Cvt: Introducing convolutions to vision transformers](https://arxiv.org/pdf/2103.15808.pdf)
         *   [Transunet: Transformers make strong encoders for medical image segmentation](https://arxiv.org/pdf/2102.04306.pdf)
 
+*  Sep.15  Zhuowei Li **Self-supervised Neural Architecture Search**  
+    *  PPT: [Self-supervised Neural Architecture Search.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7133233/Transformers_for_Medical_Imageg_Segmentation.pptx)
+    *  Related Papers: 
+        *   [Are Labels Necessary for Neural Architecture Search?](https://arxiv.org/pdf/2003.12056.pdf)
+        *   [Self-supervised Neural Architecture Search](https://arxiv.org/pdf/2007.01500.pdf)
+        *   [Neural Architecture Search with Random Labels](https://arxiv.org/pdf/2101.11834.pdf)
 
 *  Sep.22  Xiaoxiao He **Understanding self-supervised learning dynamics without contrastive pairs**
    *  PPT: 
