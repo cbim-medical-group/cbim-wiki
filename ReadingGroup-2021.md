@@ -33,6 +33,12 @@
         *   [Are Labels Necessary for Neural Architecture Search?](https://arxiv.org/pdf/2003.12056.pdf)
         *   [Self-supervised Neural Architecture Search](https://arxiv.org/pdf/2007.01500.pdf)
         *   [Neural Architecture Search with Random Labels](https://arxiv.org/pdf/2101.11834.pdf)
+    *  Revelant Papers:
+        *   [DARTS](https://arxiv.org/pdf/1806.09055.pdf)
+        *   [NAS-Bench-101](https://arxiv.org/pdf/1902.09635.pdf)
+        *   [NAS-Bench-201](https://arxiv.org/pdf/2001.00326.pdf)
+        *   [NAS-Bench-301](https://arxiv.org/pdf/2008.09777.pdf)
+        *   [NATS-Bench](https://arxiv.org/pdf/2009.00437.pdf)
 
 *  Sep.22  Xiaoxiao He **Understanding self-supervised learning dynamics without contrastive pairs**
    *  PPT: 
