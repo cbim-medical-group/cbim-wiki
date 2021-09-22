@@ -40,8 +40,7 @@
         *   [NAS-Bench-301](https://arxiv.org/pdf/2008.09777.pdf)
         *   [NATS-Bench](https://arxiv.org/pdf/2009.00437.pdf)
 
-*  Sep.22  Xiaoxiao He **Federated Learning and its medical application()
-**
+*  Sep.22  Xiaoxiao He **Federated Learning and its medical application**
    *  PPT: [Federated-Learning-Presentation.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7211807/Federated-Learning-Presentation.pptx)
    *  Related Papers:
       *  [Federated semi-supervised learning for COVID region segmentation in chest CT using multi-national data from China, Italy, Japan](https://arxiv.org/abs/2011.11750)
