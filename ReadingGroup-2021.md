@@ -40,10 +40,13 @@
         *   [NAS-Bench-301](https://arxiv.org/pdf/2008.09777.pdf)
         *   [NATS-Bench](https://arxiv.org/pdf/2009.00437.pdf)
 
-*  Sep.22  Xiaoxiao He **Understanding self-supervised learning dynamics without contrastive pairs**
-   *  PPT: 
+*  Sep.22  Xiaoxiao He **Federated Learning and its medical application()
+**
+   *  PPT: [Federated-Learning-Presentation.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7211807/Federated-Learning-Presentation.pptx)
    *  Related Papers:
-      *  [Understanding self-supervised learning dynamics without contrastive pairs](https://arxiv.org/pdf/2102.06810)
+      *  [Federated semi-supervised learning for COVID region segmentation in chest CT using multi-national data from China, Italy, Japan](https://arxiv.org/abs/2011.11750)
+      *  [Multi-modal AsynDGAN: Learn From Distributed Medical Image Data without Sharing Private Information](https://arxiv.org/abs/2012.08604)
+
       
 
 
