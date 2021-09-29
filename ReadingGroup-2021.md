@@ -46,6 +46,11 @@
       *  [Federated semi-supervised learning for COVID region segmentation in chest CT using multi-national data from China, Italy, Japan](https://arxiv.org/abs/2011.11750)
       *  [Multi-modal AsynDGAN: Learn From Distributed Medical Image Data without Sharing Private Information](https://arxiv.org/abs/2012.08604)
 
-      
+
+*  Sep.29	 Qilong Zhangli **ViT and Swin Transformer**  
+    *  PPT: 
+    *  Related Papers: 
+        *   [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)
+
 
 
