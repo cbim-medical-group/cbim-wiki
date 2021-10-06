@@ -54,3 +54,13 @@
 
 
 
+*  Qct.06  Bingyu Xin **Deep learning for fast MR imaging**  
+    *  PPT: [Deep_learning_for_fast_MR_imaging.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7290741/Deep_learning_for_fast_MR_imaging.pptx)
+    *  Related Papers: 
+        *   [Deep learning for fast MR imaging: a review for learning reconstruction from incomplete k-space data](https://arxiv.org/pdf/2012.08931)
+        *   [MR Image Reconstruction From Highly Undersampled k-Space Data by Dictionary Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5617283)
+        *   [A Deep Cascade of Convolutional Neural Networks for Dynamic MR Image Reconstruction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8067520)
+        *   [MRI RECONSTRUCTION VIA CASCADED CHANNEL-WISE ATTENTION NETWORK](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8759423)
+        *   [Cascaded Dilated Dense Network with Two-step DataConsistency for MRI Reconstruction](https://openreview.net/pdf?id=SkxYBNBgUB)
+
+
