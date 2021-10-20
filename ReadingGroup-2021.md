@@ -63,4 +63,15 @@
         *   [MRI RECONSTRUCTION VIA CASCADED CHANNEL-WISE ATTENTION NETWORK](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8759423)
         *   [Cascaded Dilated Dense Network with Two-step DataConsistency for MRI Reconstruction](https://openreview.net/pdf?id=SkxYBNBgUB)
 
+*  Oct.20  Qi Chang **GAN Inversion**
+   *  Related Papers:
+        *   [GAN Inversion: A Survey](https://arxiv.org/pdf/2101.05278.pdf)
+        *   [Image Processing Using Multi-Code GAN Prior](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Image_Processing_Using_Multi-Code_GAN_Prior_CVPR_2020_paper.pdf)
+        *   [High Fidelity GAN Inversion via Prior Multi-Subspace Feature Composition](https://github.com/cbim-medical-group/cbim-wiki/files/7381876/17017-Article.Text-20511-1-2-20210518.1.pdf)
+   *  Applications:
+        *   [Unsupervised 3D Shape Completion through GAN Inversion](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Unsupervised_3D_Shape_Completion_Through_GAN_Inversion_CVPR_2021_paper.pdf)
+        *   [Controllable Medical Image Generation via Generative Adversarial Networks](https://whitneylab.berkeley.edu/PDFs/Ren_MedImageGen.pdf)
+        *   [Latent space manipulation for high-resolution medical image synthesis via the StyleGAN](https://github.com/cbim-medical-group/cbim-wiki/files/7381889/1-s2.0-S0939388920300544-main.pdf)
+
+
 
