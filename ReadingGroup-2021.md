@@ -64,6 +64,7 @@
         *   [Cascaded Dilated Dense Network with Two-step DataConsistency for MRI Reconstruction](https://openreview.net/pdf?id=SkxYBNBgUB)
 
 *  Oct.20  Qi Chang **GAN Inversion**
+   *  PPT: [GAN-Inversion.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7385550/GAN-Inversion.pptx)
    *  Related Papers:
         *   [GAN Inversion: A Survey](https://arxiv.org/pdf/2101.05278.pdf)
         *   [Image Processing Using Multi-Code GAN Prior](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Image_Processing_Using_Multi-Code_GAN_Prior_CVPR_2020_paper.pdf)
