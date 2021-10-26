@@ -75,7 +75,7 @@
         *   [Latent space manipulation for high-resolution medical image synthesis via the StyleGAN](https://github.com/cbim-medical-group/cbim-wiki/files/7381889/1-s2.0-S0939388920300544-main.pdf)
 
 *  Oct.27	 Meng Ye **The Spatially-Correlative Loss for Various Image Translation Tasks**  
-    *  PPT: [HyperMorph.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7132088/HyperMorph.pptx)
+    *  PPT: [Spatially Correlative Loss for I2I](Spatially Correlative Loss for I2I.pptx)
     *  Related Papers: 
         *   [The Spatially-Correlative Loss for Various Image Translation Tasks](https://arxiv.org/abs/2104.00854)
         *   [Towards cross-modal organ translation and segmentation: A cycle- and shape-consistent generative adversarial network](https://doi.org/10.1016/j.media.2018.12.002)
