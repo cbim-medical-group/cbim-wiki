@@ -81,4 +81,9 @@
         *   [Towards cross-modal organ translation and segmentation: A cycle- and shape-consistent generative adversarial network](https://doi.org/10.1016/j.media.2018.12.002)
 
 
+*  Nov.4	 Yunhe Gao **DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort**  
+    *  PPT: [DatasetGAN.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/7515970/DatasetGAN.pdf)
+    *  Related Papers: 
+        *   [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort](https://arxiv.org/abs/2104.06490)
+        *   [Semantic segmentation with generative models: Semi-supervised learning and strong out-of-domain generalization](https://arxiv.org/abs/2104.05833)
 
