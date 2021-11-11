@@ -87,3 +87,10 @@
         *   [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort](https://arxiv.org/abs/2104.06490)
         *   [Semantic segmentation with generative models: Semi-supervised learning and strong out-of-domain generalization](https://arxiv.org/abs/2104.05833)
 
+
+*  Nov.11 Di Liu **Superquadrics Revisited: Learning 3D Shape Parsing beyond Cuboids**  
+    *  PPT: [Deep Deformable models.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7523651/Deep.Deformable.models.pptx)
+
+    *  Related Papers: 
+        *   [Paschalidou_Superquadrics_Revisited_Learning_3D_Shape_Parsing_Beyond_Cuboids_CVPR_2019_paper.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/7523655/Paschalidou_Superquadrics_Revisited_Learning_3D_Shape_Parsing_Beyond_Cuboids_CVPR_2019_paper.pdf)
+
