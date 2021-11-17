@@ -94,3 +94,9 @@
     *  Related Papers: 
         *   [Paschalidou_Superquadrics_Revisited_Learning_3D_Shape_Parsing_Beyond_Cuboids_CVPR_2019_paper.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/7523655/Paschalidou_Superquadrics_Revisited_Learning_3D_Shape_Parsing_Beyond_Cuboids_CVPR_2019_paper.pdf)
 
+
+*  Nov.17 Zhuowei Li **Masked Autoencoders Are Scalable Vision Learners**  
+    *  PPT: [MAE.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7558540/MAE.pptx)
+    *  Related Papers: 
+        *   [Masked Autoencoders Are Scalable Vision Learners.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/7558548/Masked.Autoencoders.Are.Scalable.Vision.Learners.pdf)
+
