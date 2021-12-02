@@ -99,3 +99,8 @@
     *  Related Papers: 
         *   [Masked Autoencoders Are Scalable Vision Learners.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/7558548/Masked.Autoencoders.Are.Scalable.Vision.Learners.pdf)
 
+
+*  Dec.2  Xiaoxiao He **Swarm Learning: Another Blockchain Application**
+   *  PPT: [Swarm Learning.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7645661/Swarm.Learning.pptx)
+   *  Related Papers:
+      *  [Swarm Learning for decentralized and confidential clinical machine learning](https://www.nature.com/articles/s41586-021-03583-3)
