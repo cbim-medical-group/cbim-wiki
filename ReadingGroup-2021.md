@@ -48,7 +48,7 @@
 
 
 *  Sep.29	 Qilong Zhangli **ViT and Swin Transformer**  
-    *  PPT: 
+    *  PPT: [Swin_Transformer.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/7664402/Swin_Transformer.pdf)
     *  Related Papers: 
         *   [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)
 
@@ -106,6 +106,6 @@
       *  [Swarm Learning for decentralized and confidential clinical machine learning](https://www.nature.com/articles/s41586-021-03583-3)
 
 *  Dec.9  Qilong Zhangli **Big Self-Supervised Models are Strong Semi-Supervised Learners**
-   *  PPT: [SimCLR V2.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/7645661/Swarm.Learning.pptx)
+   *  PPT: [SimCLR_v2.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/7664401/SimCLR_v2.pdf)
    *  Related Papers:
       *  [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/pdf/2006.10029.pdf)
