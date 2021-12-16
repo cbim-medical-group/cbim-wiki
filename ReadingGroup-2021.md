@@ -109,3 +109,11 @@
    *  PPT: [SimCLR_v2.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/7664401/SimCLR_v2.pdf)
    *  Related Papers:
       *  [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/pdf/2006.10029.pdf)
+
+
+*  Dec.16  Ryhan Moghe **"Re-distributing Biased Pseudo Labels for Semi-supervised Semantic Segmentation: A Baseline Investigation”**
+   *  PPT: [Redistributing_Biased_Pseudo_Labels.pdf](https://github.com/cbim-medical-group/cbim-wiki/Redistributing_Biased_Pseudo_labels.pdf)
+   *  Related Papers:
+      *  [Dynamic Mutual Training for Semi-Supervised Learning](https://arxiv.org/pdf/2004.08514.pdf)
+
+
