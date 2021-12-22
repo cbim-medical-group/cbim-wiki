@@ -115,5 +115,9 @@
    *  PPT: [Redistributing_Biased_Pseudo_Labels.pdf](https://github.com/cbim-medical-group/cbim-wiki/Redistributing_Biased_Pseudo_labels.pdf)
    *  Related Papers:
       *  [Dynamic Mutual Training for Semi-Supervised Learning](https://arxiv.org/pdf/2004.08514.pdf)
-
+*  Dec.23  Bingyu Xin **SwinIR: Image Restoration Using Swin Transformer**
+   *  PPT: 
+   *  Related Papers:
+      *  [SwinIR: Image Restoration Using Swin Transformer](https://arxiv.org/pdf/2108.10257.pdf)
+      *  [Plug-and-Play Image Restoration with Deep Denoiser Prior](https://arxiv.org/pdf/2008.13751.pdf)
 
