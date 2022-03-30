@@ -123,6 +123,11 @@
 
 *  Feb.16 Qi Chang **StyleGAN3**
    *  PPT: [StyleGAN3.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/8216874/StyleGAN3.pptx)
+   *  
+*  Mar.23 Di Liu **Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks**  
+    *  PPT: [Neural_Parts.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/8384557/Neural_Parts.pptx)
+    *  Related Papers:
+       *  [Paschalidou_Neural_Parts_Learning_Expressive_3D_Shape_Abstractions_With_Invertible_Neural_CVPR_2021_paper.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/8384558/Paschalidou_Neural_Parts_Learning_Expressive_3D_Shape_Abstractions_With_Invertible_Neural_CVPR_2021_paper.pdf)
 
 *  Mar.30 Zhuowei Li **Learning to Prompt for Continual Learning**  
     *  PPT: [L2P.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/8381415/L2P.pptx)
