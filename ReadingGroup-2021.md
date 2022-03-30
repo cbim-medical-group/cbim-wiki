@@ -126,7 +126,8 @@
 
 *  Mar.30 Zhuowei Li **Learning to Prompt for Continual Learning**  
     *  PPT: [L2P.pptx](https://github.com/cbim-medical-group/cbim-wiki/files/8381415/L2P.pptx)
-    *  Related Papers:[Learning to Prompt for Continual Learning_ICLR.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/8381417/Learning.to.Prompt.for.Continual.Learning_ICLR.pdf)
+    *  Related Papers:
+    *  [Learning to Prompt for Continual Learning_ICLR.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/8381417/Learning.to.Prompt.for.Continual.Learning_ICLR.pdf)
     *  [Visual Prompt Tuning.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/8381420/Visual.Prompt.Tuning.pdf)
 
 
