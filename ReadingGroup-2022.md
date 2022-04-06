@@ -136,4 +136,8 @@
        *  [Visual Prompt Tuning.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/8381420/Visual.Prompt.Tuning.pdf)
 
 
+*  Apr.4 Xiaoxiao He **FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space**
+    *  PPT: [FedDG.pptx]
+    *  Related Papers:
+       *   [Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/8428793/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.pdf)
 
