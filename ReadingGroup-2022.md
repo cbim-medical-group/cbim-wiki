@@ -141,3 +141,9 @@
     *  Related Papers:
        *   [Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/8428793/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.pdf)
 
+
+*  Apr.13 Qilong Zhangli **Emerging Properties in Self-Supervised Vision Transformers**
+    *  Related Papers:
+       *   [Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/8428793/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.pdf)
+
+
