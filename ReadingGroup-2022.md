@@ -146,4 +146,8 @@
     *  Related Papers:
        *   [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.14294.pdf)
 
+*  Apr.20 Bingyu Xin **Practical Blind Denoising via Swin-Conv-UNet and Data Synthesis**
+    *  Related Papers:
+       *   [Practical Blind Denoising via Swin-Conv-UNet and Data Synthesis](https://github.com/cbim-medical-group/cbim-wiki/files/8520871/2203.13278.pdf)
+
 
