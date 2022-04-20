@@ -7,4 +7,4 @@
         
    *   [Reading List and Plan](https://docs.google.com/spreadsheets/d/1snsRn9RXN3BAQyE0crDxtO5RiHhRF25h8r3EdoQccLg/edit#gid=0)
 
-   *   [ReadingGroup-2021](./ReadingGroup-2021.md)
+   *   [ReadingGroup-2022](./ReadingGroup-2022.md)
