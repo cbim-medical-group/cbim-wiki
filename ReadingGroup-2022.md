@@ -150,4 +150,14 @@
     *  Related Papers:
        *   [Practical Blind Denoising via Swin-Conv-UNet and Data Synthesis](https://github.com/cbim-medical-group/cbim-wiki/files/8520871/2203.13278.pdf)
 
+*  May.4 Ananya Jana **Deep Learning based method for automatic tooth labelling from 3D intraoral scans**
+    *  PPT:
+       *   [Deep Learning based method for automatic tooth labelling from 3D intraoral scans](https://github.com/cbim-medical-group/cbim-wiki/files/8708990/reading_group_presentation.pdf)
+
+*  May.11 Qi Chang **DENOISING DIFFUSION PROBABILISTIC MODELS AND ITS VARIATIONS **
+    *  PPT:
+       *   [DiffusionModels.pdf](https://github.com/cbim-medical-group/cbim-wiki/files/8709025/DiffusionModels.pdf)
+
+
+
 
