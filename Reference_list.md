@@ -7,12 +7,23 @@
       journal={arXiv preprint arXiv:2203.02846},
       year={2022}
     }
+    
     @article{liu2022transfusion,
       title={TransFusion: Multi-view Divergent Fusion for Medical Image Segmentation with Transformers},
       author={Liu, Di and Gao, Yunhe and Zhangli, Qilong and Yan, Zhennan and Zhou, Mu and Metaxas, Dimitris},
       journal={arXiv preprint arXiv:2203.10726},
       year={2022}
     }
+    
+    @inproceedings{liu2021label,
+  title={Label super resolution for 3D magnetic resonance images using deformable U-net},
+  author={Liu, Di and Liu, Jiang and Liu, Yihao and Tao, Ran and Prince, Jerry L and Carass, Aaron},
+  booktitle={Medical Imaging 2021: Image Processing},
+  volume={11596},
+  pages={606--611},
+  year={2021},
+  organization={SPIE}
+}
     @article{chang2022deeprecon,
           title={DeepRecon: Joint 2D Cardiac Segmentation and 3D Volume Reconstruction via A Structure-Specific Generative Method}, 
           author={Qi Chang and Zhennan Yan and Mu Zhou and Di Liu and Khalid Sawalha and Meng Ye and Qilong Zhangli and Mikael Kanski and Subhi Al Aref and Leon Axel and Dimitris Metaxas},
