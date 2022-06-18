@@ -40,7 +40,16 @@
       year={2020},
       organization={IEEE}
     }
-
+    
+    @inproceedings{he2019effective,
+      title={Effective 3D humerus and scapula extraction using low-contrast and high-shape-variability MR data},
+      author={He, Xiaoxiao and Tan, Chaowei and Qiao, Yuting and Tan, Virak and Metaxas, Dimitris and Li, Kang},
+      booktitle={Medical Imaging 2019: Biomedical Applications in Molecular, Structural, and Functional Imaging},
+      volume={10953},
+      pages={118--124},
+      year={2019},
+      organization={SPIE}
+    }
 
 
 ## Medical Registration
