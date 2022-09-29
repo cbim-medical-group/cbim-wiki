@@ -9,6 +9,7 @@
 
 1.3 Some commands:
   ./ukbconv ukb46169.enc_ukb bulk -s20209
+  
   ./ukbfetch -bukb46169.bulk -s1 -m1000 -of1
 
     Return 2541
